@@ -65,7 +65,6 @@ project/
 │
 ├── output/
 │
-│
 ├── main.py
 └── README.md
 ```
