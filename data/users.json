@@ -1,0 +1,7 @@
+[
+  {"user_name": "bruno", "user_age": 23, "user_wage": 2000},
+  {"user_name": "maria", "user_age": 22, "user_wage": 3500},
+  {"user_name": "ana", "user_age": 20, "user_wage": 1500},
+  {"user_name": "carlos", "user_age": 20, "user_wage": 500},
+  {"user_name": "julia", "user_age": 22, "user_wage": 1000}
+]
